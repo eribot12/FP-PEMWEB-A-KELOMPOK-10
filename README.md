@@ -28,7 +28,9 @@
 - Karyawan</br>
     Menu Karyawan dalam website ini berperan untuk mencatat kinerja dari semua karyawan. Mulai dari nama karyawan dan jobdesk masing-masing, absensi karyawan, dan apabila pemilik ingin memberikan gaji, pemilik dapat mengambil data kinerja karyawan yagn telah direkam atau dicatat setiap hari. 
 - Supplier</br>
-    Menu Supllier dalam website ini berperan 
+    Menu Supllier dalam website ini berperan untuk mencatat data dari supplier yang masuk untuk mensuplai sparepart untuk bengkel ini. Admin dapat melihat data dari supplier yang masuk dan dapat juga menerapkan sistem CRUD untuk data supllier.
+- Sparepart</br>
+    Menu Sparepart dalam website ini berperan 
 
 
 ## Teknologi Yang Digunakan Dalam Perancangan Aplikasi Web
