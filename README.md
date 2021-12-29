@@ -43,7 +43,7 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
 - Supplier</br>
     Menu Supllier dalam website ini berperan untuk mencatat data dari supplier yang masuk untuk mensuplai sparepart untuk bengkel ini. Admin dapat melihat data dari supplier yang masuk dan dapat juga menerapkan sistem CRUD untuk merubah atau menghapus data supllier.
 - Sparepart</br>
-    Menu Sparepart dalam website ini berperan untuk menyimpan data dari sparepart yang ada, mulai dari harga beli, harga jual, dan jumlah stok yang tersedia dalam bengkel. Admin dapat juga dapat memasukkan data sparepart baru, mengedit data spareoart dan juga dapat menghapus data-data tersebut jikalau terdapat perubahan dalam data tersebut.
+    Menu Sparepart dalam website ini berperan untuk menyimpan data dari sparepart yang ada, mulai dari harga beli, harga jual, dan jumlah stok yang tersedia dalam bengkel. Admin dapat juga dapat memasukkan data sparepart baru, mengedit data sparepart dan juga dapat menghapus data-data tersebut jikalau terdapat perubahan dalam data tersebut.
 - Servis</br>
     Menu Servis dalam website ini 
 
