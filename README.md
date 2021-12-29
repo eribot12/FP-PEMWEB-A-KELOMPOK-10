@@ -66,3 +66,11 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
 
 
 ## Kode-Kode Inti Program
+    Kode inti pada web admin ini berada pada folder application yang didalamnya juga terdapat beberapa folder lagi. tetapi web kode inti web ini hanya berada pada folder : config, controller, dan view.
+    
+    ### Folder Config
+    kode - kode yang berada pada folder config berfungsi untuk mengkonfigurasi web admin bengkel ini. Berikut file yang berisi kode kode inti yang berada pada folder config :
+    1. autoload.php
+        Source code atau kode yang berada didalam file autoload.php merupakan source code untuk mengatur fungsi fungsi yang akan dimuat secara otomatis pada awal            program dijalankan. Di dalam file autoload kita menambahkan fungsi pada library dan helper seperti berikut :
+   
+    ![autoload](https://user-images.githubusercontent.com/75917259/147662877-78d5f49d-63c4-4404-9790-854de09a9ec2.png)
