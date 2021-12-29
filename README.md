@@ -69,6 +69,74 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
 
 
 ## Kode-Kode Inti Program
-    Source Code inti pada website ini ada di dalam folder application. Di dalam folder application ada beberapa folder lagi yang menyimpan sorce code inti, yaitu : folder config, controller, dan view
+    Source Code inti pada website ini ada di dalam folder application. Di dalam folder application ada beberapa folder lagi yang menyimpan sorce code inti, yaitu : folder config, controller, model, dan view.
+    
+    ### Folder Config
+    1. Autoload.php
+        Di dalam file ini terdapat source code yang berfungsi untuk mengatur fungsi fungsi dari program secara otomatis.
+    2. Config.php
+        Di file ini terdapat beberapa konfigurasi yang secara umum sudah terkonfigurasi
+    3. Database.php
+        File ini digunakan untuk melakukan konfigurasi atau connect ke database yang sudah dibuat sebelumnya
+    4. Routes.php
+        File Route ini digunakan agar tampilan link dari website menjadi lebih simple dan lebih mudah dipahami
+    
+    ### Folder Controller
+    Source code yang berada dalam file ini berfungsi untuk mengatur alur proses aliran data atau fungsi yang dibuat. Source code inti yang ada di file ini adalah :
+    1. C_Customer.php
+        Sorce code didalam file ini digunakan untuk mengatur alur proses input data customer.
+    2. C_Karyawan.php
+        Sorce code didalam file ini digunakan untuk mengatur alur proses input data karyawan.
+    3. C_Servis.php
+        Sorce code didalam file ini digunakan untuk mengatur alur proses input data servis.
+    4. C_Sparepart.php
+        Sorce code didalam file ini digunakan untuk mengatur alur proses input data sparepart.
+    5. C_Supplier.php
+        Sorce code didalam file ini digunakan untuk mengatur alur proses input data supplier.
+    6. C.Transaksi.php
+        Sorce code didalam file ini digunakan untuk mengatur alur proses input data transaksi.
+    
+    ### File Model
+    Model berisi class yang mengandung function yang membantu menjalankan fungsi CRUD (Create, Read, Update dan Delete) terhadap suatu database. Berikut file - file yang berisi source code inti :
+    1. customer.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu customer.
+    2. gaji.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu gaji karyawan.
+    3. karyawan.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu karyan.
+    4. kehadiran.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu absensi karyawan.
+    5. servis.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu servis.
+    6. sparepart.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu sparepart.
+    7. supplier.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu supplier.
+    8. transaksi_part.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi sparepart.
+    9. transaksi_service.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi servis.
+    10. transaksi.php
+    Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi.
+    
+    ### File View
+    Source Code yang berada dalam folder ini biasanya berfungsi untuk menampilkan tampilan website. Di dalam folder ini kami membuat beberapa folder lagi sesuai menu kami yaitu home, customer, karyawan, servis, sparepart, supplier, template, dan transaksi.
+    
+    1. folder home
+    Di dalam folder home terdapat file yang berisi source code tampilan utama website.
+    2. folder customer
+    Di dalam folder customer terdapat file icustomer.php yang digunakan untuk tampilan input data customer, file vcustomer.php untuk tampilan data yang telah diinputkan, ecustomer.php digunakan untuk mengedit data customer, dan dcustomer.php untuk menghapus data yang sudah diinputkan.
+    3. folder karyawan
+    Di dalam folder ini terdapat file ikaryawan.php yang digunakan untuk tampilan input data karyawan, file vkaryawan.php untuk tampilan data yang telah diinputkan, ekaryawan.php digunakan untuk mengedit data karyawan,  dkaryawan.php untuk menghapus data yang sudah diinputkan, ikehadiran.php digunakan untuk input kehadiran karyawan/absen karyawan, dan ipenggajian untuk menampilkan data gaji karyawan dengan cara memilih karyawan mana yang akan digaji dan nantinya akan muncul tampilan gaji karyawan sesuai kehadiran karyawan.
+    4. folder servis
+    Di dalam file ini ada iservis.php yang digunakan untuk inputan data pelanggan yang servis, file vservis.php untuk menampilkan data data pelanggan yang servis, dan eservis.php berfungsi untuk mengedit data pelanggan yang servis. 
+    5. folder sparepart
+       Di dalam file ini ada isparepart.php yang digunakan untuk inputan data barang sparepart, file vsparepart.php untuk menampilkan data data barang sparepart, dan esparepart.php berfungsi untuk mengedit data barang sparepart.
+    6. folder supplier
+    Di dalam folder supplier terdapat file isupplier.php yang digunakan untuk tampilan input data supplier, file vsupplier.php untuk tampilan data yang telah diinputkan, esupplier.php digunakan untuk mengedit data supplier, dan dsupplier.php untuk menghapus data yang sudah diinputkan.
+    7. folder template
+     Di dalam folder ini terdapat file header.php dan footer.php yang digunakan untuk menampilkan tampilan umum website. adanya file ini agar setiap file tidak memasukkan source code header dan footer lagi
+    8. folder transaksi
+    Di dalam folder transaksi ada juga file file didalamnya yang berfungsi untuk tampilan menu trnasaksi. yang pertama yaitu file itransaksi.php yang digunakan untuk tampilan input data transaksi pelanggan, itrans_part.php tampilan untuk input data transaksi sparepart, itrans_servis.php digunakan untuk tampilan input data pelanggan yang servis, vhistory.php digunakan untuk tampilan lihat data history transaksi, isupply_part.php digunakan untuk tampilan data supplier sparepart, cetak_part.php berfungsi untuk cetak/print transaksi sparepart, dan cetak_servis.php berfungsi untuk cetak/print transaksi servis. 
     
     
