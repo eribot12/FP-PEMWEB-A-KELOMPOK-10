@@ -54,6 +54,7 @@ class C_Sparepart extends CI_Controller {
     
     public function submit_data(){
         $data = [
+            "kode_part"=> $this->input->post('kode_part'),
             "jenis_part"=> $this->input->post('jenis_part'),
             "nama_part"=> $this->input->post('nama_part'),
             "harga_beli"=> $this->input->post('harga_beli'),

@@ -51,7 +51,6 @@ class C_Servis extends CI_Controller {
     
     public function submit_data(){
         $data = [
-            "id_servis"=> $this->input->post('id_servis'),
             "jenis_servis"=> $this->input->post('jenis_servis'),
             "biaya_servis"=> $this->input->post('biaya_servis'),
         ];
