@@ -9,7 +9,7 @@
 
 ---------------------------------------------
 ---------------------------------------------
-## **Halaman Utama Aplikasi Web Admin**
+## **Halaman Utama Web Admin**
 ![hal utama apk](https://user-images.githubusercontent.com/96815557/147641543-a077bf53-cea1-493c-8108-f60ca94e7d43.png)
 
 ---------------------------------------------
@@ -24,9 +24,11 @@
 - Home</br>
     Menu Home adalah menu yang menampilkan halaman utama sebuah website. Dimana dalam menu tersebut berfungsi untuk memberikan navigasi ke halaman atau menu lain. Dengan ini pengguna akan dapat menjelajahi website dengan lebih lengkap.
 - Customer</br>
-    Menu Customer dalam website ini berfungsi agar admin website dapat menyimpan data dari pelanggan yang menggunakan jasa bengkel. Jadi data dari pelanggan dapat dilihat dalam menu ini, admin juga dapat menerapkan sistem CRUD dalam mencatat perubahan data dari pelanggan.
+    Menu Customer dalam website ini berperan agar admin website dapat menyimpan data dari pelanggan yang menggunakan jasa bengkel. Jadi data dari pelanggan dapat dilihat dalam menu ini, admin juga dapat menerapkan sistem CRUD dalam mencatat perubahan data dari pelanggan.
 - Karyawan</br>
-    Menu Karyawan dalam website ini berperan untuk mencatat data karyawan
+    Menu Karyawan dalam website ini berperan untuk mencatat kinerja dari semua karyawan. Mulai dari nama karyawan dan jobdesk masing-masing, absensi karyawan, dan apabila pemilik ingin memberikan gaji, pemilik dapat mengambil data kinerja karyawan yagn telah direkam atau dicatat setiap hari. 
+- Supplier</br>
+    Menu Supllier dalam website ini berperan 
 
 
 ## Teknologi Yang Digunakan Dalam Perancangan Aplikasi Web
