@@ -15,7 +15,19 @@
 ---------------------------------------------
 
 ## Deskripsi Aplikasi
+- Deskripsi Aplikasi Web Utama</br>
+Bengkel-Q adalah web bengkel yg dimana di dalam web tersebut terdapat fitur yang dapat membantu dalam melayani pelanggan dengan baik.Diharapkan dengan adanya web bengkel ini pelanggan bisa puas dengan pelayanan yang lebih cepat dikarena telah dibantu dengan aplikasi we Bengkel-Q. Fitur-fitur yang terdapat dalam aplikasi web Bengkel-Q ialah 
+Home(beranda)
+Customer</br>
+Karyawan</br>
+Supplier</br>
+Sparepart</br>
+Servis</br>
+Transaksi</br>
+Yang dimana didalam masing-masing fitur tersebut terdapat juga fitur/menu yang menunjang keperluan dari fitur tersebut.
 
+- Deskripsi Aplikasi Web Admin</br>
+Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengkel-Q guna mengelola sistem manajemen Bengkel-Q. Pada aplikasi web admin ini berfungsi untuk menambah, mengupdate, dan menghapus data yang berkaitan dengan Bengkel-Q. Dalam aplikasi web admin tersebut terdapat beberapa teknologi atau fitur yang digunakan antara lain yaitu CRUD.
 
 ## Sitemap Halaman Web
 ![sitemap](https://user-images.githubusercontent.com/96815557/147654602-8b62ecce-ba58-4e3c-8ef4-4e5893bda723.jpeg)
