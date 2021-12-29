@@ -32,7 +32,8 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
 
 
 ## Sitemap Halaman Web
-![sitemapnew](https://user-images.githubusercontent.com/96815557/147675278-86520423-6c47-4005-88ff-9bb1db92eb96.jpg)
+![sitemapnew](https://user-images.githubusercontent.com/96815557/147677286-f6cf0f41-6baf-453d-a187-e1a65516e727.jpg)
+
 
 
 ### **Penjelasan Sitemap**
