@@ -52,7 +52,8 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
 
 
 ## Teknologi Yang Digunakan Dalam Perancangan Aplikasi Web
-
+- CI3</BR>
+    Code Igniter adalah salah satu Framework PHP bahkan Framework PHP yang paling powerful saat ini karena di dalamnya terdapat fitur Jengkap aplikasi web di mana fitur-fitur tersebut sudah dikemas menjadi satu.  Selain itu, Code Igniter juga saat ini banyak digunakan khususnya bagi pengembang web untuk mengembangkan aplikasi berbasis web tersebut. Code Igniter menggunakan Konsep MVC dan sering digunakan oleh developer dan komunitas di seluruh penjuru dunia. Dengan menggunakan Framework ini pula kita tidak akan terlalu kesulitan mencari tutorial yang membahas framework ini karena Developer Codeigniter 3 sudah menyediakan dokumentasi secara lengkap atau Table of Content yang bisa kalian lihat di User Guide. Code Igniter 3 juga memiliki beberapa keunggulan yang lebih daripada Framework lainnya antara lain, berbasis Open Source, dokumentasi yang detail dan lengkap, konsep MVC, konsep Object Oriented Programing (OOP), cepat dan ringan.
 
 ## Cara Penggunaan Aplikasi
 - Cara Menjalankan Aplikasi Website Utama</br>
