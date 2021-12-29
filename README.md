@@ -200,54 +200,51 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
     Model berisi class yang mengandung function yang membantu menjalankan fungsi CRUD (Create, Read, Update dan Delete) terhadap suatu database. Berikut file - file yang berisi 
     source code inti :
     1. customer.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu customer.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu customer.
     2. gaji.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu gaji karyawan.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu gaji karyawan.
     3. karyawan.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu karyan.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu karyan.
     4. kehadiran.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu absensi karyawan.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu absensi karyawan.
     5. servis.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu servis.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu servis.
     6. sparepart.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu sparepart.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu sparepart.
     7. supplier.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu supplier.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu supplier.
     8. transaksi_part.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi sparepart.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi sparepart.
     9. transaksi_service.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi servis.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi servis.
     10. transaksi.php
-    Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi.
+       Source Code yang berfungsi untuk membantu fungsi CRUD di menu transaksi.
     
     ### File View
     Source Code yang berada dalam folder ini biasanya berfungsi untuk menampilkan tampilan website. Di dalam folder ini kami membuat beberapa folder lagi sesuai menu kami yaitu 
     home, customer, karyawan, servis, sparepart, supplier, template, dan transaksi.
     
     1. folder home
-    Di dalam folder home terdapat file yang berisi source code tampilan utama website.
+       Di dalam folder home terdapat file yang berisi source code tampilan utama website.
     2. folder customer
-    Di dalam folder customer terdapat file icustomer.php yang digunakan untuk tampilan input data customer, file vcustomer.php untuk tampilan data yang telah diinputkan, 
-    ecustomer.php digunakan untuk mengedit data customer, dan dcustomer.php untuk menghapus data yang sudah diinputkan.
+       Di dalam folder customer terdapat file icustomer.php yang digunakan untuk tampilan input data customer, file vcustomer.php untuk tampilan data yang telah diinputkan, 
+       ecustomer.php digunakan untuk mengedit data customer, dan dcustomer.php untuk menghapus data yang sudah diinputkan.
     3. folder karyawan
-    Di dalam folder ini terdapat file ikaryawan.php yang digunakan untuk tampilan input data karyawan, file vkaryawan.php untuk tampilan data yang telah diinputkan, 
-    ekaryawan.php digunakan untuk mengedit data karyawan,  dkaryawan.php untuk menghapus data yang sudah diinputkan, ikehadiran.php digunakan untuk input kehadiran 
-    karyawan/absen karyawan, dan ipenggajian untuk menampilkan data gaji karyawan dengan cara memilih karyawan mana yang akan digaji dan nantinya akan muncul tampilan gaji 
-    karyawan sesuai kehadiran karyawan.
+       Di dalam folder ini terdapat file ikaryawan.php yang digunakan untuk tampilan input data karyawan, file vkaryawan.php untuk tampilan data yang telah diinputkan, 
+       ekaryawan.php digunakan untuk mengedit data karyawan,  dkaryawan.php untuk menghapus data yang sudah diinputkan, ikehadiran.php digunakan untuk input kehadiran 
+       karyawan/absen karyawan, dan ipenggajian untuk menampilkan data gaji karyawan dengan cara memilih karyawan mana yang akan digaji dan nantinya akan muncul tampilan gaji 
+       karyawan sesuai kehadiran karyawan.
     4. folder servis
-    Di dalam file ini ada iservis.php yang digunakan untuk inputan data pelanggan yang servis, file vservis.php untuk menampilkan data data pelanggan yang servis, dan 
-    eservis.php berfungsi untuk mengedit data pelanggan yang servis. 
+       Di dalam file ini ada iservis.php yang digunakan untuk inputan data pelanggan yang servis, file vservis.php untuk menampilkan data data pelanggan yang servis, dan 
+       eservis.php berfungsi untuk mengedit data pelanggan yang servis. 
     5. folder sparepart
        Di dalam file ini ada isparepart.php yang digunakan untuk inputan data barang sparepart, file vsparepart.php untuk menampilkan data data barang sparepart, dan 
        esparepart.php berfungsi untuk mengedit data barang sparepart.
     6. folder supplier
-    Di dalam folder supplier terdapat file isupplier.php yang digunakan untuk tampilan input data supplier, file vsupplier.php untuk tampilan data yang telah diinputkan, 
-    esupplier.php digunakan untuk mengedit data supplier, dan dsupplier.php untuk menghapus data yang sudah diinputkan.
+       Di dalam folder supplier terdapat file isupplier.php yang digunakan untuk tampilan input data supplier, file vsupplier.php untuk tampilan data yang telah diinputkan, 
+       esupplier.php digunakan untuk mengedit data supplier, dan dsupplier.php untuk menghapus data yang sudah diinputkan.
     7. folder template
-     Di dalam folder ini terdapat file header.php dan footer.php yang digunakan untuk menampilkan tampilan umum website. adanya file ini agar setiap file tidak memasukkan source 
-     code header dan footer lagi
+        Di dalam folder ini terdapat file header.php dan footer.php yang digunakan untuk menampilkan tampilan umum website. adanya file ini agar setiap file tidak memasukkan             source code header dan footer lagi
     8. folder transaksi
-    Di dalam folder transaksi ada juga file file didalamnya yang berfungsi untuk tampilan menu trnasaksi. yang pertama yaitu file itransaksi.php yang digunakan untuk tampilan 
-    input data transaksi pelanggan, itrans_part.php tampilan untuk input data transaksi sparepart, itrans_servis.php digunakan untuk tampilan input data pelanggan yang servis, 
-    vhistory.php digunakan untuk tampilan lihat data history transaksi, isupply_part.php digunakan untuk tampilan data supplier sparepart, cetak_part.php berfungsi untuk 
-    cetak/print transaksi sparepart, dan cetak_servis.php berfungsi untuk cetak/print transaksi servis. 
+       Di dalam folder transaksi ada juga file file didalamnya yang berfungsi untuk tampilan menu trnasaksi. yang pertama yaitu file itransaksi.php yang digunakan untuk tampilan 
+       input data transaksi pelanggan, itrans_part.php tampilan untuk input data transaksi sparepart, itrans_servis.php digunakan untuk tampilan input data pelanggan yang             servis, vhistory.php digunakan untuk tampilan lihat data history transaksi, isupply_part.php digunakan untuk tampilan data supplier sparepart, cetak_part.php berfungsi           untuk cetak/print transaksi sparepart, dan cetak_servis.php berfungsi untuk cetak/print transaksi servis. 
