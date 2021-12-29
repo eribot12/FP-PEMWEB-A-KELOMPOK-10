@@ -10,13 +10,14 @@
 ---------------------------------------------
 ---------------------------------------------
 ## **Halaman Utama Web Admin**
-![hal utama apk](https://user-images.githubusercontent.com/96815557/147641543-a077bf53-cea1-493c-8108-f60ca94e7d43.png)
+![hal utama](https://user-images.githubusercontent.com/96815557/147662567-2d16950e-45c0-450b-a59b-b122b8317c52.jpeg)
+
 
 ---------------------------------------------
 
 ## Deskripsi Aplikasi
 - Deskripsi Aplikasi Web Utama</br>
-Bengkel-Q adalah web bengkel yg dimana di dalam web tersebut terdapat fitur yang dapat membantu dalam melayani pelanggan dengan baik.Diharapkan dengan adanya web bengkel ini pelanggan bisa puas dengan pelayanan yang lebih cepat dikarena telah dibantu dengan aplikasi we Bengkel-Q. Fitur-fitur yang terdapat dalam aplikasi web Bengkel-Q ialah 
+Bengkel-Q adalah web bengkel yg dimana di dalam web tersebut terdapat fitur yang dapat membantu dalam melayani pelanggan dengan baik.Diharapkan dengan adanya web bengkel ini pelanggan bisa puas dengan pelayanan yang lebih cepat dikarena telah dibantu dengan aplikasi we Bengkel-Q. Fitur-fitur yang terdapat dalam aplikasi web Bengkel-Q ialah :</br>
 Home(beranda)
 Customer</br>
 Karyawan</br>
@@ -45,7 +46,9 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
 - Sparepart</br>
     Menu Sparepart dalam website ini berperan untuk menyimpan data dari sparepart yang ada, mulai dari harga beli, harga jual, dan jumlah stok yang tersedia dalam bengkel. Admin dapat juga dapat memasukkan data sparepart baru, mengedit data sparepart dan juga dapat menghapus data-data tersebut jikalau terdapat perubahan dalam data tersebut.
 - Servis</br>
-    Menu Servis dalam website ini 
+    Menu Servis dalam website ini berperan untuk mencatat pilihan jenis servis yang dilakukan untuk pelanggan, dan untuk memberikan biaya servis sesuai dengan jenis servis yang dilakukan atau yang dipakai. Seperti menu yang lainnya admin dapat melihat, merubah, menghapus data pada menu servis ini.
+- Transaksi</br>
+    Menu Transaksi ini berperan untuk mencatat segala jenis transaksi yang terjadi dalam proses bisnis bengkel ini. Mulai dari transaksi servis, transaksi jual beli sparepart, transaksi dengan supllier dan menampilkan history segala jenis transaksi yang terjadi. Dalam menu ini juga admin dapat mencetak nota dari segala jenis transaksi yang terjadi. 
 
 
 ## Teknologi Yang Digunakan Dalam Perancangan Aplikasi Web
