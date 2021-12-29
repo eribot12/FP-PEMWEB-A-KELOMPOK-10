@@ -52,7 +52,12 @@ Aplikasi web admin adalah sebuah aplikasi web yang ditujukan kepada admin Bengke
 
 
 ## Cara Penggunaan Aplikasi
-
+- Cara Menjalankan Aplikasi Website Utama</br>
+    Untuk menjalankan aplikasi web utama yang harus dilakukan pertama kali yaitu membukanya pada browser dengan keyword “localhost/<namafolder>. Kemudian akan muncul tampilan aplikasi web utama pada browser. Setelah itu akan diarhkan ke halaman utama aplikasi web. Pada halaman utama aplikasi terdapat fitur beranda (Home), Customer, karyawan, Supplier, Servis, Transaksi. 
+    Pada fitur beranda (Home) terdapat tampilan nota transaksi sparepart yang dimana didalam nota transaksi sparepart terdapat id transaksi, tanggal transakasi, nama customer, nama part, harga part, jumlah beli, total bayar, dan opsi. Pada beranda (Home) juga terdapat tampilan nota transaksi servi diamana didalamnya terdapat id transakasi servis, nama karyawan, nama customer, tanggal servis, jenis servis, biaya servis, nama part, harga part, total bayar, opsi. 
+- Cara Menjalankan Aplikasi Website Admin</br>
+    Untuk menjalankan aplikasi web admin yang harus dilakukan pertama kali yaitu membukanya pada browser dengan keyword “localhost/<namafolder>. Kemudian akan muncul tampilan aplikasi web admin pada browser. Pada halaman admin tidak jauh beda dengan tampilan pada web utama yg membedakan ialah pada web admin dapat CRUD yang dimana dalam menu menu customer terdapat menu input customer yang dapat di inputkan oleh admin dan terdapat menu menampilkan customer yang dapat dilihat oleh admin setelah menambahkan customer selain itu didalam tampilkan customer juga bisa untuk mengedit maupun menghapus data customer.
+    Pada menu karyawan juga terdapat pilahan untuk input karyawan, view karyawan, absensi karyawan, penggajian karyawan yang dapat di tambahkan, edit, dan hapus oleh admin. Pada menu Supplier terdapat menu ialah input supplier dan view supplier yang dapat ditambahkan, hapus, dan edit oleh admin. Pada menu Sparepart juga terdapat menu input sparepart dan view sparepart yang dapat ditambahkan, hapus, dan edit oleh admin. Pada menu Servis juga terdapat menu input servis dan view servis yang dapat ditambahkan, hapus, dan edit oleh admin. Dan juga pada menu Transaksi juga terdapat menu transaksi servis, pembelian sparepart, supply sparepart, history transaksi yang dapat ditambahkan, hapus, dan edit oleh admin.
 
 ## Fitur-Fitur Yang Ditawarkan
 
