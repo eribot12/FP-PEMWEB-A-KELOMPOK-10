@@ -84,7 +84,7 @@ class C_Transaksi extends CI_Controller {
 
     }
     
-    public function submit_data(){
+    public function submit_data_servis(){
         $data = [
             "id_servis"=> $this->input->post('jenis'),
             "id_karyawan"=> $this->input->post('kar'),
