@@ -18,6 +18,15 @@
 
 
 ## Sitemap Halaman Web
+![sitemap](https://user-images.githubusercontent.com/96815557/147654602-8b62ecce-ba58-4e3c-8ef4-4e5893bda723.jpeg)
+
+### **Penjelasan Sitemap**
+- Home</br>
+    Menu Home adalah menu yang menampilkan halaman utama sebuah website. Dimana dalam menu tersebut berfungsi untuk memberikan navigasi ke halaman atau menu lain. Dengan ini pengguna akan dapat menjelajahi website dengan lebih lengkap.
+- Customer</br>
+    Menu Customer dalam website ini berfungsi agar admin website dapat menyimpan data dari pelanggan yang menggunakan jasa bengkel. Jadi data dari pelanggan dapat dilihat dalam menu ini, admin juga dapat menerapkan sistem CRUD dalam mencatat perubahan data dari pelanggan.
+- Karyawan</br>
+    Menu Karyawan dalam website ini berperan untuk mencatat data karyawan
 
 
 ## Teknologi Yang Digunakan Dalam Perancangan Aplikasi Web
